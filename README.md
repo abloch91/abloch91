@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Amanda.
+- 👀 I’m interested in Cybersecurity and Compliance.
+- 🌱 I’m currently studying for my Security+ Certification.
+- 💞️ I’m looking to collaborate on Backend Development.
